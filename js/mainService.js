@@ -1,5 +1,5 @@
 angular.module("app")
-.service("mainService", function($scope){
+.service("mainService", function(){
 
 
 
