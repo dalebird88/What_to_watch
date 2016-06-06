@@ -17,8 +17,11 @@ footer{
   height: 85px;
   width: 85vw;
   border-top:  5px white solid;
-  display: flex;
-  justify-content:left;
+
+
+}
+footer h1{
+    display: inline-block;
 }
 
 .headtext{
@@ -44,6 +47,9 @@ h1 {
   color:white;
   font-family: cursive;
   font-size: 30px;
+}
+.tryagain{
+float:right;
 }
 
 .textbox{
