@@ -35,10 +35,6 @@ angular.module("app").config(function($stateProvider, $urlRouterProvider) {
             url:"/indigo",
             templateUrl:"../routes/colors/indigo.html"
         })
-        .state('violet', {
-            url:"/violet",
-            templateUrl:"../routes/colors/violet.html"
-        })
         .state('black', {
             url:"/black",
             templateUrl:"../routes/colors/black.html"
