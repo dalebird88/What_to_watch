@@ -15,13 +15,13 @@ angular.module("app")
     "http://is4.mzstatic.com/image/thumb/Music6/v4/f6/b6/d1/f6b6d1b6-2132-10d1-72d4-c823a7ee4969/source/400x400-75.jpg",
     "http://my-anime-music.com/wp-content/uploads/2011/03/lucky-star.jpg",
     "https://www.madman.com.au/news/wp-content/uploads/2011/04/kon.jpg",
-    "https://images7.alphacoders.com/332/332295.jpg"
+    "https://upload.wikimedia.org/wikipedia/en/a/a7/Haruhi_Suzumiya_character_album_cover.jpg"
   ];
 
   var yellow = [
-    "http://www.entravity.com/wp-content/uploads/2014/03/Log-Horizon-Anime-Wallpaper.jpg",
+    "http://img1.ak.crunchyroll.com/i/spire3/3e0c95cae25237cea24cb3299044e2ee1380926820_full.jpg",
     "http://ib1.huluim.com/show/21464?region=US&size=952x536",
-    "http://supervillainnetwork.com/wp-content/uploads/2015/04/ghost-in-the-shell-0.jpg",
+    "http://www.blogcdn.com/massively.joystiq.com/media/2012/12/header.jpg",
     "http://goldenarmmedia.com/wp-content/uploads/2015/07/neon-genesis-evangelion.jpg",
     "http://static.zerochan.net/Re-l.Mayer.full.160192.jpg"
   ]
@@ -42,14 +42,14 @@ angular.module("app")
   ]
   var indigo = [
     "http://cdn.paper4pc.com/images/clannad-wallpaper-6.jpg",
-    "https://soloordoppio.files.wordpress.com/2011/12/toradora_love_by_inslock.jpg",
+    "https://himesempai.files.wordpress.com/2014/10/toradora_1600x900.jpg",
     "http://www.garytay.com/eleventsuki/wp-content/uploads/2015/12/Ore-Monogatari.png",
     "http://assets.huluim.com/shows/key_art_fruits_basket.jpg",
     "http://when-will.net/images/artikel/2015/march/Wolf-Girl-and-Black-Prince.jpg"
   ]
   var black = [
     "http://actionagogo.com.previewdns.com/wp-content/uploads/2014/11/aot.jpg",
-    "http://cdn.playbuzz.com/cdn/48129886-6746-44ed-868c-245be9bb2ec1/6d864acd-8afb-45fc-a161-7b1deb839ae0.jpg",
+    "https://i.ytimg.com/vi/P-xrIw5gGGo/maxresdefault.jpg",
     "http://vignette1.wikia.nocookie.net/lagooncompany/images/b/b1/Black_Lagoon.jpg/revision/latest?cb=20110718042001",
     "http://blog.neo-amusement.com/wp-content/uploads/2011/02/berserk.59919.jpg",
     "http://www.absoluteanime.com/hellsing_ultimate/wallpaper/hellsing4_1280.jpg"
